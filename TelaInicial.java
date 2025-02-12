@@ -16,7 +16,7 @@ import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
 
 public class TelaInicial extends javax.swing.JFrame {
-    String caminho = "C:\\Users\\Pichau\\Desktop\\medicao.csv";
+    String caminho = System.getProperty("user.home") + "\\Desktop\\medicao.csv";
 
     public TelaInicial() {
         initComponents();
