@@ -1,5 +1,7 @@
 package cardiotrack;
 
+import cardiotrack.Medicao;
+
 import java.awt.List;
 import java.awt.event.KeyEvent;
 import java.io.BufferedReader;
