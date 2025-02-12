@@ -2,6 +2,8 @@
 
 ### Um aplicativo Java para registrar e armazenar medições cardíacas.
 
+<img src="https://drive.google.com/file/d/1GN9q00k9ycbRSLEvL9xBMg-aAFAIq97C/view?usp=drive_link" alt="CardioTrack">
+
 ## Funcionalidades
 
 - Captura e armazena medições cardíacas.
